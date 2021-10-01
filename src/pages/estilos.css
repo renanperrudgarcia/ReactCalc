@@ -1,0 +1,35 @@
+.PagesCalculadora {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5rem;
+
+}
+
+.PagesCalculadora__input {
+    height: 40px;
+    border-radius: 5px;
+    border:2px solid #ffffff;
+    width: 20%;
+    padding: 5px 2rem;
+    background-color: transparent;
+    color: white;
+    font-size: 2rem;
+   
+}
+
+.PagesCalculadora__text
+{
+    font-size: 3rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    color: #00ec1f;
+    
+
+}
+.PagesOla{
+    font-size: 2rem;  
+    margin-left: 3rem;
+    color: #f6f6f6;
+   
+}
